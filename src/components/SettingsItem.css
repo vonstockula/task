@@ -1,0 +1,29 @@
+.settings-item {
+    display: flex;
+    align-items: center;
+    padding: 10px; 
+    background-color: transparent; 
+    border: none;
+    box-shadow: none;
+  }
+  
+  .settings-item-image {
+    width: 60px; 
+    height: 60px; 
+    margin-right: 15px; 
+    border-radius: 50%; 
+    border: none; 
+  }
+  
+  .settings-item-content {
+    flex: 1;
+    background-color: transparent; 
+  }
+  
+  .settings-item-content h2,
+  .settings-item-content p {
+    margin: 0; 
+    padding: 0; 
+    background-color: transparent; 
+  }
+  
